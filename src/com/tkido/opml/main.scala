@@ -17,16 +17,16 @@ object main extends App {
   
   def convertGodAll(node:Node):String = {
     node.attribute("title").get.text match{
-      case "‚Ü‚Æ‚ß" => ""
-      case "‚»‚ê‚É‚Â‚¯‚Ä‚à‹à‚Ì‚Ù‚µ‚³‚æ" => ""
+      case "ã¾ã¨ã‚" => ""
+      case "ãã‚Œã«ã¤ã‘ã¦ã‚‚é‡‘ã®ã»ã—ã•ã‚ˆ" => ""
       case _ => convertGod(node)
     }
   }
   
   def convertFomaAll(node:Node):String = {
     node.attribute("title").get.text match{
-      case "‚Ü‚Æ‚ß" => ""
-      case "‚»‚ê‚É‚Â‚¯‚Ä‚à‹à‚Ì‚Ù‚µ‚³‚æ" => convertFoma(node)
+      case "ã¾ã¨ã‚" => ""
+      case "ãã‚Œã«ã¤ã‘ã¦ã‚‚é‡‘ã®ã»ã—ã•ã‚ˆ" => convertFoma(node)
       case _ => ""
     }
   }
@@ -34,8 +34,8 @@ object main extends App {
   
   def convert(node:Node):String = {
     node.attribute("title").get.text match{
-      case "‚Ü‚Æ‚ß" => ""
-      case "‚»‚ê‚É‚Â‚¯‚Ä‚à‹à‚Ì‚Ù‚µ‚³‚æ" => convertFoma(node)
+      case "ã¾ã¨ã‚" => ""
+      case "ãã‚Œã«ã¤ã‘ã¦ã‚‚é‡‘ã®ã»ã—ã•ã‚ˆ" => convertFoma(node)
       case _ => convertGod(node)
     }
   }
