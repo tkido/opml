@@ -1,173 +1,127 @@
 
 
+<div class="sidebody"><a href="http://kabu.96ut.com" target="_blank">IPO・新規公開株 – 株式・証券会社比較情報サイト 96ut.kabu</a></div>
+<div class="sidebody"><a href="http://apalog.com/kojima/" target="_blank">プロフェッサー小島健輔の言いたい放題（小島ファッションマーケティング代表）</a></div>
+<div class="sidebody"><a href="http://ameblo.jp/aqofbq/" target="_blank">日々是好日</a></div>
+<div class="sidebody"><a href="http://www.araizumi.site/" target="_blank">休むも相場。</a></div>
+<div class="sidebody"><a href="http://www.netemate.net/" target="_blank">海外ETFで資産運用</a></div>
+<div class="sidebody"><a href="http://tecnhofunda.blog.fc2.com/" target="_blank">成長株投資とロシア妻との日々</a></div>
+<div class="sidebody"><a href="https://plaza.rakuten.co.jp/iswallstreet/" target="_blank">堀古英司の「米国株式の魅力」</a></div>
 <div class="sidebody"><a href="http://blog.livedoor.jp/norizou2005/" target="_blank">のりぞーの目指せ壱億円！</a></div>
 <div class="sidebody"><a href="http://indexdriver.blog.shinobi.jp/" target="_blank">インデックス・ドライバー</a></div>
 <div class="sidebody"><a href="http://cervorosso.blog.jp/" target="_blank">紅の鹿の日記</a></div>
-<div class="sidebody"><a href="http://blog.livedoor.jp/harvey_1/" target="_blank">☆Harvey☆のHappy Value Life♪</a></div>
 <div class="sidebody"><a href="http://ameblo.jp/kirito-99/" target="_blank">ゲーム銘柄で一攫千金（旧　短期トレードで勝ちを重ねる）</a></div>
 <div class="sidebody"><a href="http://plaza.rakuten.co.jp/100hajime/" target="_blank">鴨とネギの投資生活</a></div>
 <div class="sidebody"><a href="http://plaza.rakuten.co.jp/lodestar2006/" target="_blank">lodestar的投資日記</a></div>
-<div class="sidebody"><a href="http://blog.livedoor.jp/taipon777/" target="_blank">2020年への資産運用の旅  　　since 2011.7.18</a></div>
+<div class="sidebody"><a href="http://blog.livedoor.jp/taipon777/" target="_blank">2020年への資産運用の旅 （インデックス投資の記録）</a></div>
 <div class="sidebody"><a href="http://blog.livedoor.jp/kabu2013/" target="_blank">若手サラリーマンのバリュー投資日記</a></div>
 <div class="sidebody"><a href="http://a1000miles.blog.fc2.com/" target="_blank">つなわたりのまいにち（専業投資家日記）</a></div>
-<div class="sidebody"><a href="http://blog.livedoor.jp/kappa_ccw/" target="_blank">医学と投資についての随想 (KAPPA)</a></div>
-<div class="sidebody"><a href="http://diceawayfx.exblog.jp" target="_blank">七転八起</a></div>
 <div class="sidebody"><a href="http://plaza.rakuten.co.jp/kabu1000/" target="_blank">かぶ１０００投資日記</a></div>
 <div class="sidebody"><a href="http://markethack.net/" target="_blank">Market Hack</a></div>
 <div class="sidebody"><a href="http://ito1973.blogspot.com/" target="_blank">iFund運用報告書</a></div>
 <div class="sidebody"><a href="http://www.tdb.co.jp/tosan/jouhou.html" target="_blank">帝国データバンク 大型倒産速報</a></div>
 <div class="sidebody"><a href="http://kabukeizainani.blogspot.com/" target="_blank">株の話、経済の話、何の話だろう？</a></div>
-<div class="sidebody"><a href="http://daru1986.jugem.jp/" target="_blank">ダルだぜ☆</a></div>
-<div class="sidebody"><a href="http://maropiko.hatenablog.com/" target="_blank">割安株投資研究所</a></div>
-<div class="sidebody"><a href="http://rdsig.yahoo.co.jp/rss/l/blog/myblog/rss2/url/RV=1/RU=aHR0cDovL2Jsb2dzLnlhaG9vLmNvLmpwL2poamg3ag--" target="_blank">株式情報／キッチンカブー/株ステーション/</a></div>
 <div class="sidebody"><a href="http://takanoridayo.blog.shinobi.jp/" target="_blank">インターネット界隈の事を調べるお</a></div>
 <div class="sidebody"><a href="http://blog.livedoor.jp/ichonan-investment/" target="_blank">亀吉の投資メモ</a></div>
 <div class="sidebody"><a href="http://kameleon-kameleon.blogspot.com/" target="_blank">J.S.エコハのブログ</a></div>
-<div class="sidebody"><a href="http://blog.livedoor.jp/toushika_y/" target="_blank">アセマネの内定を蹴って自分で運用するブログ</a></div>
 <div class="sidebody"><a href="http://ameblo.jp/trick-bz/" target="_blank">ウチナーサラリーマンの投資・グルメブログ</a></div>
-<div class="sidebody"><a href="http://koutou-yumin.seesaa.net/" target="_blank">高等遊民の備忘録</a></div>
-<div class="sidebody"><a href="http://yuyutoushi.blog.fc2.com/" target="_blank">ゆうゆー投資法</a></div>
-<div class="sidebody"><a href="http://blog.livedoor.jp/saladbowl8/" target="_blank">さらだ備忘録</a></div>
 <div class="sidebody"><a href="http://plaza.rakuten.co.jp/mikimaru71/" target="_blank">みきまるの優待バリュー株日誌</a></div>
 <div class="sidebody"><a href="http://plaza.rakuten.co.jp/slowsheep/" target="_blank">雅の日記～お気楽生活をめざして</a></div>
 <div class="sidebody"><a href="http://rdsig.yahoo.co.jp/rss/l/blog/myblog/rss2/url/RV=1/RU=aHR0cDovL2Jsb2dzLnlhaG9vLmNvLmpwL2dvcm9udGFfdG91c2hp" target="_blank">小型株投資の日記</a></div>
 <div class="sidebody"><a href="http://moneytree7.blog48.fc2.com/" target="_blank">金のなる木を投資で増やそう</a></div>
 <div class="sidebody"><a href="http://rdsig.yahoo.co.jp/rss/l/blog/myblog/rss2/url/RV=1/RU=aHR0cDovL2Jsb2dzLnlhaG9vLmNvLmpwL3Nva3JhdGVzdmFsdWU-" target="_blank">キリギリスのように暮らし、アリのように蓄える</a></div>
 <div class="sidebody"><a href="http://blog.livedoor.jp/iorino11/" target="_blank">エセバリュー投資日記Ⅱ</a></div>
-<div class="sidebody"><a href="http://blog.livedoor.jp/carnavalito/" target="_blank">Carnavalito Capital Management</a></div>
 <div class="sidebody"><a href="http://d.hatena.ne.jp/yomoyomo/" target="_blank">YAMDAS現更新履歴</a></div>
 <div class="sidebody"><a href="http://growth-stock.blog.jp/" target="_blank">成長株で億万長者</a></div>
-<div class="sidebody"><a href="http://longinv.blog103.fc2.com/" target="_blank">インデックス投資日記＠川崎</a></div>
 <div class="sidebody"><a href="http://plaza.rakuten.co.jp/kabuffet963/" target="_blank">GoldmanSacheeの優待株投資</a></div>
-<div class="sidebody"><a href="http://moneyfreedom.blog21.fc2.com/" target="_blank">貯金生活。投資生活。</a></div>
 <div class="sidebody"><a href="http://blog.livedoor.jp/harimau_kabu/" target="_blank">マ◯ーの虎　ハリマオの投資日記</a></div>
 <div class="sidebody"><a href="http://plaza.rakuten.co.jp/seiyan36/" target="_blank">投資逍遥</a></div>
-<div class="sidebody"><a href="http://www.lay-up.net" target="_blank">投信で手堅くlay-up!（インデックス投資ブログ）</a></div>
 <div class="sidebody"><a href="http://stockbondcurrency.blog.fc2.com/" target="_blank">アダム・スミス２世の経済解説</a></div>
-<div class="sidebody"><a href="http://www.countand1.com/" target="_blank">思考の整理日記</a></div>
-<div class="sidebody"><a href="http://investerbear.blog.fc2.com/" target="_blank">投資家くまの投資メモ</a></div>
 <div class="sidebody"><a href="http://bunbai-yosou.blogspot.com/" target="_blank">いもらうの立会外分売 分析予想</a></div>
 <div class="sidebody"><a href="http://ameblo.jp/takechan/" target="_blank">ほいみんの　のんびり日記</a></div>
 <div class="sidebody"><a href="http://larkstongueaspic.blog.fc2.com/" target="_blank">アーリーリタイヤへの道</a></div>
-<div class="sidebody"><a href="http://nonconsumption.com/" target="_blank">消費せず働きもしない未来を歩む遊民の独白</a></div>
-<div class="sidebody"><a href="http://plaza.rakuten.co.jp/otsune2007/" target="_blank">しょぼい・・・らすかぶ日記</a></div>
-<div class="sidebody"><a href="http://mushitori.blog.fc2.com/" target="_blank">いつか子供に伝えたいお金の話</a></div>
-<div class="sidebody"><a href="http://ameblo.jp/rongtyan/" target="_blank">テレカ刑事</a></div>
+<div class="sidebody"><a href="http://noneedbuy.blog.fc2.com/" target="_blank">消費せず働きもしない未来を歩む遊民の独白</a></div>
 <div class="sidebody"><a href="http://blog.livedoor.jp/love_aeria/" target="_blank">東証Project</a></div>
-<div class="sidebody"><a href="http://yumeokanaeyou.jugem.jp/" target="_blank">変わり者になろう  −　目指せナンバーワンよりオンリーワン！　−</a></div>
-<div class="sidebody"><a href="http://toyop.net/" target="_blank">ほったらかし投資のまにまに</a></div>
 <div class="sidebody"><a href="http://blog.livedoor.jp/zawakamifund/" target="_blank">バリュー投資のすすめ　～思ってるやつと違うからな～</a></div>
 <div class="sidebody"><a href="http://mnt01.blogspot.com/" target="_blank">バフェット流バリュー株投資で資産形成＋</a></div>
-<div class="sidebody"><a href="http://ichiokuen-wo.jp" target="_blank">１億円を貯めてみよう！chapter2</a></div>
 <div class="sidebody"><a href="http://atsumaro.doorblog.jp/" target="_blank">あつまろのこだわり資産運用</a></div>
-<div class="sidebody"><a href="http://100man1oku.main.jp" target="_blank">100man1oku｜サラリーマンが100万円を1億円にする</a></div>
+<div class="sidebody"><a href="http://100man1oku.main.jp/" target="_blank">100man1oku｜サラリーマンが株で100万円を1億円にするブログ</a></div>
 <div class="sidebody"><a href="http://value-ranking.seesaa.net/" target="_blank">個人投資家パフォーマンスランキング</a></div>
 <div class="sidebody"><a href="http://www.tsurao.com/" target="_blank">吊られた男の投資ブログ (インデックス投資)</a></div>
 <div class="sidebody"><a href="http://plaza.rakuten.co.jp/seigo182/" target="_blank">期待値で計るバリュー投資　無期限信用取引　有</a></div>
 <div class="sidebody"><a href="http://kabumatome.doorblog.jp/" target="_blank">市況かぶ全力２階建</a></div>
 <div class="sidebody"><a href="http://kabumoratorium.com/" target="_blank">モラトリアムサラリーマンの長期投資株ブログ</a></div>
-<div class="sidebody"><a href="http://randomwalker.blog19.fc2.com/" target="_blank">梅屋敷商店街のランダム・ウォーカー（インデックス投資実践記）</a></div>
-<div class="sidebody"><a href="http://renny.jugem.jp/" target="_blank">rennyの備忘録 （投資信託をコツコツinvest　#k2k2）</a></div>
-<div class="sidebody"><a href="http://akihirollin.zoku-sei.com/" target="_blank">Memorandum</a></div>
 <div class="sidebody"><a href="http://kaeru.orio.jp/" target="_blank">かえるの気長な生活日記。</a></div>
-<div class="sidebody"><a href="http://indexinvest.blog32.fc2.com/" target="_blank">矢向町（やこうまち）のインデックス投資家</a></div>
 <div class="sidebody"><a href="http://mazyoshisystemlabo.tumblr.com/" target="_blank">多くの人には逆さに見えても #Investudy</a></div>
 <div class="sidebody"><a href="http://www.kablife.com/wp" target="_blank">株ライフブログ</a></div>
 <div class="sidebody"><a href="http://pension.blog88.fc2.com/" target="_blank">Passiveな投資とActiveな未来</a></div>
-<div class="sidebody"><a href="http://plaza.rakuten.co.jp/www9945/" target="_blank">www9945の公開プロフィール</a></div>
 <div class="sidebody"><a href="http://ameblo.jp/v-com2/" target="_blank">21世紀投資</a></div>
 <div class="sidebody"><a href="http://blog.livedoor.jp/kabu2oku/" target="_blank">サラリーマンが株式投資でセミリタイアを目指してみました。</a></div>
 <div class="sidebody"><a href="http://thehappyman.blog.fc2.com/" target="_blank">幸せなお金持ち的日記</a></div>
 <div class="sidebody"><a href="http://pooh2013.blog.fc2.com/" target="_blank">poohの毎日～40代アーリーリタイア夫婦の暮らし～</a></div>
 <div class="sidebody"><a href="http://rdsig.yahoo.co.jp/rss/l/blog/myblog/rss2/url/RV=1/RU=aHR0cDovL2Jsb2dzLnlhaG9vLmNvLmpwL3Rha2VuYWthMTIyMQ--" target="_blank">たけなか まさはる</a></div>
-<div class="sidebody"><a href="http://early-retire.com" target="_blank">ヤマノ投信</a></div>
+<div class="sidebody"><a href="http://early-retire.com/" target="_blank">ヤマノ投信</a></div>
 <div class="sidebody"><a href="http://ipo-striker.com/" target="_blank">IPO初値予想/分析　IPOストライカーの投資ブログ！</a></div>
 <div class="sidebody"><a href="http://plaza.rakuten.co.jp/snoozer8888/" target="_blank">There is no free lunch</a></div>
 <div class="sidebody"><a href="http://oniwasblog.seesaa.net/" target="_blank">アーリーセミリタイア生活日記</a></div>
 <div class="sidebody"><a href="http://plaza.rakuten.co.jp/hidefund/" target="_blank">ひでファンド</a></div>
 <div class="sidebody"><a href="http://blog.livedoor.jp/ss2286234570/" target="_blank">スイングトレード ★ 日記.</a></div>
 <div class="sidebody"><a href="http://senninn.blog.fc2.com/" target="_blank">仙人の祈り</a></div>
-<div class="sidebody"><a href="http://plaza.rakuten.co.jp/lucky7lucky/" target="_blank">減らないお財布を持ってフィナンシャル・インディペンデンスをめざす仲間のコミュニティー</a></div>
-<div class="sidebody"><a href="http://ameblo.jp/ringtrade/" target="_blank">RING×TRADE</a></div>
 <div class="sidebody"><a href="http://kabuohazimeru.blog22.fc2.com/" target="_blank">株をはじめる前に読むブログ</a></div>
 <div class="sidebody"><a href="http://kibinago7777.blogspot.com/" target="_blank">株主優待と高配当株を買い続ける株式投資ブログ</a></div>
-<div class="sidebody"><a href="http://plaza.rakuten.co.jp/taku1225/" target="_blank">たくの投資ノート</a></div>
 <div class="sidebody"><a href="http://blog.goo.ne.jp/6_suke?fm=rss" target="_blank">ろくすけの長期投資の旅</a></div>
 <div class="sidebody"><a href="http://blog.livedoor.jp/hk_131/" target="_blank">コムストックの投機日記</a></div>
-<div class="sidebody"><a href="http://toushi-kyokasho.com" target="_blank">投資の教科書</a></div>
-<div class="sidebody"><a href="http://blog.livedoor.jp/kowaremaru/" target="_blank">株主優待でお得な生活♪</a></div>
 <div class="sidebody"><a href="http://ningyocho.blogspot.com/" target="_blank">Porco Rosso Financial Weblog</a></div>
 <div class="sidebody"><a href="http://imolau.blog99.fc2.com/" target="_blank">いもらうの負けない投資　【分析で相場に勝つ】</a></div>
-<div class="sidebody"><a href="http://www.tachibana-akira.com" target="_blank">橘玲 公式サイト</a></div>
-<div class="sidebody"><a href="http://dividendsnowball.blogspot.com/" target="_blank">「配当金を雪だるま式に増やす投資日記」 ～Dividend Snowball Investing～</a></div>
+<div class="sidebody"><a href="http://www.tachibana-akira.com/" target="_blank">橘玲 公式サイト</a></div>
+<div class="sidebody"><a href="http://dividendsnowball.blogspot.com/" target="_blank">「配当金を雪だるま式に増やす投資日記」Dividend Snowball Investing</a></div>
 <div class="sidebody"><a href="http://ameblo.jp/tetsu219/" target="_blank">しがないディーラーのブログ</a></div>
 <div class="sidebody"><a href="http://miyanokabu.blog.fc2.com/" target="_blank">みやの株主優待投資日記</a></div>
-<div class="sidebody"><a href="http://nightwalker.cocolog-nifty.com/money/" target="_blank">NightWalker's Investment Blog</a></div>
 <div class="sidebody"><a href="http://blog.livedoor.jp/agou2/" target="_blank">アゴウの日記</a></div>
 <div class="sidebody"><a href="http://genuinvest.net/" target="_blank">ホンネの資産運用セミナー（インデックス投資ブログ）</a></div>
-<div class="sidebody"><a href="http://ameblo.jp/g0mao/" target="_blank">ごまおファンド</a></div>
-<div class="sidebody"><a href="http://kablog.doorblog.jp/" target="_blank">株でサラリーマン卒業</a></div>
 <div class="sidebody"><a href="http://masitan.blog.fc2.com/" target="_blank">本日の増担保規制解除ライン</a></div>
-<div class="sidebody"><a href="http://www.iwannabefree.info" target="_blank">自由になりたくて47歳で会社を辞めたらこうなった</a></div>
-<div class="sidebody"><a href="http://aketemiyo-akazunoma.doorblog.jp/" target="_blank">株式投資で資産、早期3000万円を目指す</a></div>
-<div class="sidebody"><a href="http://www.netemate.net/" target="_blank">海外ETFで資産運用</a></div>
-<div class="sidebody"><a href="http://blog.livedoor.jp/noppin/" target="_blank">Noppin's stock cafe</a></div>
-<div class="sidebody"><a href="http://freepapa.enjyuku-blog.com" target="_blank">てーげー投資ライフのすすめ！</a></div>
-<div class="sidebody"><a href="http://matsunosuke.jp" target="_blank">The Goal</a></div>
+<div class="sidebody"><a href="http://aketemiyo-akazunoma.doorblog.jp/" target="_blank">株式投資で資産、早期5000万円を目指す</a></div>
+<div class="sidebody"><a href="http://freepapa.enjyuku-blog.com/" target="_blank">てーげー投資ライフのすすめ！</a></div>
 <div class="sidebody"><a href="http://blog.livedoor.jp/setuyaku999/" target="_blank">かすみちゃんの株主優待日記</a></div>
-<div class="sidebody"><a href="http://kaoru-office.biz/" target="_blank">資産運用相談員kaoruの　　　　ちょっといい話</a></div>
-<div class="sidebody"><a href="http://www.money-motto.com" target="_blank">もっとお金の話がしたい</a></div>
+<div class="sidebody"><a href="http://www.money-motto.com/" target="_blank">もっとお金の話がしたい</a></div>
 <div class="sidebody"><a href="http://plaza.rakuten.co.jp/sooo0831/" target="_blank">白米っ式見せかけバリュー投資</a></div>
 <div class="sidebody"><a href="http://matsuwo2005.blogspot.com/" target="_blank">まつを。の投資日記</a></div>
-<div class="sidebody"><a href="http://ameblo.jp/sarashikubi/" target="_blank">マルサのブログ － 金の亡者を辱め</a></div>
-<div class="sidebody"><a href="http://bullbear.exblog.jp" target="_blank">牛さん熊さんブログ</a></div>
+<div class="sidebody"><a href="http://bullbear.exblog.jp/" target="_blank">牛さん熊さんブログ</a></div>
 <div class="sidebody"><a href="http://investorduke.blog.fc2.com/" target="_blank">DUKE。のサーフィンインベストメント</a></div>
 <div class="sidebody"><a href="http://blog.livedoor.jp/avexfreak/" target="_blank">資金管理の掟</a></div>
-<div class="sidebody"><a href="http://kininarukabu.com" target="_blank">nextir35の気になる株ブログ</a></div>
-<div class="sidebody"><a href="http://blog.livedoor.jp/mushoku2006/" target="_blank">年間生活費100万円！　36歳からのドケチリタイア日記</a></div>
-<div class="sidebody"><a href="http://sanoji1416.jugem.jp/" target="_blank">百年後のヴィンテージマンション</a></div>
-<div class="sidebody"><a href="http://money.enjyuku-blog.com" target="_blank">マネーへっちゃら日記</a></div>
 <div class="sidebody"><a href="http://etf-investment.com" target="_blank">フクリの海外ＥＴＦ長期投資ブログ</a></div>
-<div class="sidebody"><a href="http://kabu.96ut.com" target="_blank">株式・証券会社比較情報サイト 96ut.kabu</a></div>
-<div class="sidebody"><a href="http://kabu.96ut.com" target="_blank">IPO・新規公開株 – 株式・証券会社比較情報サイト 96ut.kabu</a></div>
-<div class="sidebody"><a href="http://www.cubmaga.com" target="_blank">cubの日記　年収100万円の楽しい海外生活術・台湾編</a></div>
+<div class="sidebody"><a href="http://kabu.96ut.com/" target="_blank">株式・証券会社比較情報サイト 96ut.kabu</a></div>
 <div class="sidebody"><a href="http://deskpower.blog80.fc2.com/" target="_blank">IPO初値予想ブログなら、キムさんのIPO投資日記</a></div>
-<div class="sidebody"><a href="http://kakeibo.lay-up.net" target="_blank">家計＆資産管理マニュアル</a></div>
-<div class="sidebody"><a href="http://ameblo.jp/aqofbq/" target="_blank">日々是好日</a></div>
+<div class="sidebody"><a href="http://kakeibo.lay-up.net/" target="_blank">家計＆資産管理マニュアル</a></div>
 <div class="sidebody"><a href="http://plaza.rakuten.co.jp/hananoyama/" target="_blank">偏屈たぬきのへそまがり投資日記</a></div>
 <div class="sidebody"><a href="http://kenbou-invest.blog.jp/" target="_blank">ケン坊の資産運用日記</a></div>
-<div class="sidebody"><a href="http://rdsig.yahoo.co.jp/rss/l/blog/myblog/rss2/url/RV=1/RU=aHR0cDovL2Jsb2dzLnlhaG9vLmNvLmpwL3Nha2tha3UyMDEz" target="_blank">My Way</a></div>
 <div class="sidebody"><a href="http://shirokatsufuji.blog.fc2.com/" target="_blank">勝藤史郎のブログ</a></div>
-<div class="sidebody"><a href="http://mansioninstitute.com" target="_blank">DJあかいのマンション総研</a></div>
-<div class="sidebody"><a href="http://pixy10.org" target="_blank">投資を楽しむ♪</a></div>
-<div class="sidebody"><a href="http://fuminekofumi.jugem.jp/" target="_blank">ふみネコ　【資産運用日々徒然〜生き延びる為のDesign〜】</a></div>
 <div class="sidebody"><a href="http://plaza.rakuten.co.jp/iswallstreet/" target="_blank">堀古英司の「米国株式の魅力」</a></div>
-<div class="sidebody"><a href="http://jpyowner.exblog.jp" target="_blank">JOYのパーシャルオーナーへの道</a></div>
-<div class="sidebody"><a href="http://aako01jp.blog.fc2.com/" target="_blank">aako01jpの株式で一発逆転　 ~個別ファンダ中心~</a></div>
 <div class="sidebody"><a href="http://blog.goo.ne.jp/livin_on_a_prayer?fm=rss" target="_blank">映画を見ながら株式投資</a></div>
-<div class="sidebody"><a href="http://blog.goo.ne.jp/cgpf-inoue0901?fm=rss" target="_blank">株式投資入門</a></div>
 <div class="sidebody"><a href="http://www.spotoushi.net/" target="_blank">すぽさん投資ぶろぐ</a></div>
 <div class="sidebody"><a href="http://aranami718.blog.fc2.com/" target="_blank">あらなみの里</a></div>
 <div class="sidebody"><a href="http://blog.livedoor.jp/vcom2/" target="_blank">21世紀投資の別館</a></div>
-<div class="sidebody"><a href="http://ichiokuen-wo.jp" target="_blank">１億円を貯めてみよう！chapter2</a></div>
-<div class="sidebody"><a href="http://wangantower.com" target="_blank">マンション購入を真剣に考えるブログ</a></div>
-<div class="sidebody"><a href="http://mansion-madori.com/" target="_blank">マンションの間取りや価格を言いたい放題!</a></div>
-<div class="sidebody"><a href="http://blog.livedoor.jp/contrarian65-wild/" target="_blank">ワイルドインベスターズ投資ブログ</a></div>
 <div class="sidebody"><a href="http://anti-index.blog.jp/" target="_blank">インデックス投資家からの脱却      （アンチインデックス）</a></div>
-<div class="sidebody"><a href="http://kabu-press.com" target="_blank">「株価プレス」</a></div>
-<div class="sidebody"><a href="http://news830.com" target="_blank">ニュース屋さん＠日本株式投資</a></div>
-<div class="sidebody"><a href="http://early-retire.com" target="_blank">ヤマノ投信</a></div>
+<div class="sidebody"><a href="http://kabu-press.com/" target="_blank">「株価プレス」</a></div>
+<div class="sidebody"><a href="http://news830.com/" target="_blank">ニュース屋さん＠日本株式投資</a></div>
+<div class="sidebody"><a href="http://early-retire.com/" target="_blank">ヤマノ投信</a></div>
 <div class="sidebody"><a href="http://nots.hatenablog.com/" target="_blank">Not-So-News</a></div>
 <div class="sidebody"><a href="http://okanehadaiji.com/" target="_blank">マネーニュース2ch</a></div>
 <div class="sidebody"><a href="http://tryinvesting.blog.fc2.com/" target="_blank">中長期投資の練習記録</a></div>
-<div class="sidebody"><a href="http://lineblog.me/yamamotoichiro/" target="_blank">やまもといちろう 公式ブログ</a></div>
+<div class="sidebody"><a href="http://lineblog.me/yamamotoichiro/" target="_blank">やまもといちろう</a></div>
 <div class="sidebody"><a href="http://ameblo.jp/okuyama-tukito/" target="_blank">エナフンさんの梨の木</a></div>
-<div class="sidebody"><a href="http://useusd.com" target="_blank">ドル使いの海外投資</a></div>
-<div class="sidebody"><a href="http://fxria10.blog.fc2.com/" target="_blank">孤高のFXブログ</a></div>
-<div class="sidebody"><a href="http://gachihomoquartet.blog.fc2.com/" target="_blank">惣菜が愛した銘柄達</a></div>
-<div class="sidebody"><a href="http://powerofequity.blogspot.com/" target="_blank">Power of Equity</a></div>
+<div class="sidebody"><a href="http://useusd.com/" target="_blank">ドル使いの海外投資</a></div>
 <div class="sidebody"><a href="http://blog.livedoor.jp/kessanderby/" target="_blank">決算ダービー</a></div>
 <div class="sidebody"><a href="http://value-investment.uekenweb.com" target="_blank">うえけんの株式投資おぼえ書き</a></div>
+<div class="sidebody"><a href="http://ameblo.jp/rayichijyo/" target="_blank">午後三時のジェットコースター　by　レイ</a></div>
+<div class="sidebody"><a href="http://kakky77.blog47.fc2.com/" target="_blank">株投資でマイホーム</a></div>
+<div class="sidebody"><a href="http://yasufx.com/" target="_blank">孤高のFX</a></div>
+<div class="sidebody"><a href="http://kabutomotaro.blog9.fc2.com/" target="_blank">リスクとリターンを見極める！</a></div>
+<div class="sidebody"><a href="http://yajyusan.hatenablog.com/" target="_blank">野獣株投資</a></div>
+<div class="sidebody"><a href="http://blog.livedoor.jp/buffett_taro/" target="_blank">バフェット太郎の秘密のポートフォリオ（米国株配当再投資戦略）</a></div>
+<div class="sidebody"><a href="http://haitoukinseikatu.com/" target="_blank">ひとり配当金生活</a></div>
+<div class="sidebody"><a href="http://betseldom.blogspot.com/" target="_blank">節約発投資行き</a></div>
+<div class="sidebody"><a href="http://www.mogukabu.info/" target="_blank">戦略的投資思考</a></div>
 
 
 

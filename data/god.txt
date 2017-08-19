@@ -1,4 +1,14 @@
-<strong>UIEvolution</strong>
+<strong>科学技術哲学</strong>
+<ul>
+<li><a href="http://wired.jp/" target="_blank">WIRED.jp最新情報 Feed – WIRED.jp</a></li>
+<li><a href="http://d.hatena.ne.jp/shorebird/" target="_blank">shorebird　進化心理学中心の書評など</a></li>
+<li><a href="http://d.hatena.ne.jp/NATROM/" target="_blank">NATROMの日記</a></li>
+<li><a href="http://blog.livedoor.jp/antroom/" target="_blank">ありんこ日記　AntRoom</a></li>
+<li><a href="http://sciencebook.blog110.fc2.com/" target="_blank">科学に佇む一行読書の書斎</a></li>
+<li><a href="http://davitrice.hatenadiary.jp/" target="_blank">道徳的動物日記</a></li>
+</ul>
+
+<strong>Xevo</strong>
 <ul>
 <li><a href="http://www.uievolution.co.jp/news" target="_blank">ニュース＆プレスリリース フィード</a></li>
 <li><a href="http://tkido.com/blog" target="_blank">神は細部に宿り給う</a></li>
@@ -6,8 +16,9 @@
 </ul>
 <strong>WEB情報通信</strong>
 <ul>
+<li><a href="https://lineblog.me/youshinada/" target="_blank">品田遊</a></li>
 <li><a href="http://d.hatena.ne.jp/nishiohirokazu/" target="_blank">西尾泰和のはてなダイアリー</a></li>
-<li><a href="http://d.hatena.ne.jp/xuwei/" target="_blank">scalaとか・・・</a></li>
+<li><a href="http://d.hatena.ne.jp/xuwei/" target="_blank">xuwei-k's blog</a></li>
 <li><a href="http://akabeko.me/blog" target="_blank">アカベコマイリ</a></li>
 <li><a href="http://www.publickey1.jp/" target="_blank">Publickey</a></li>
 <li><a href="http://codezine.jp/" target="_blank">CodeZine:新着一覧</a></li>
@@ -16,69 +27,56 @@
 <li><a href="http://d.hatena.ne.jp/fujipon/" target="_blank">琥珀色の戯言</a></li>
 <li><a href="http://otsubo.info/blog" target="_blank">ごんざれふ</a></li>
 <li><a href="http://mizchi.hatenablog.com/" target="_blank">mizchi's blog</a></li>
-<li><a href="http://tsuda.tumblr.com/" target="_blank">tsudamblr</a></li>
 <li><a href="http://yshibata.blog.so-net.ne.jp/" target="_blank">柴田 芳樹 (Yoshiki Shibata)</a></li>
 <li><a href="http://mclover.net/reblog" target="_blank">レブログ！</a></li>
 <li><a href="http://paiza.hatenablog.com/" target="_blank">paiza開発日誌</a></li>
 <li><a href="http://dain.cocolog-nifty.com/myblog/" target="_blank">わたしが知らないスゴ本は、きっとあなたが読んでいる</a></li>
-<li><a href="http://d.hatena.ne.jp/higepon/" target="_blank">Higepon’s blog</a></li>
-<li><a href="http://postd.cc" target="_blank">POSTD</a></li>
+<li><a href="http://postd.cc/" target="_blank">POSTD</a></li>
 <li><a href="http://gothedistance.hatenadiary.jp/" target="_blank">GoTheDistance</a></li>
-<li><a href="https://mechaag.tumblr.com/" target="_blank">MechaAG</a></li>
+<li><a href="http://mechaag.tumblr.com/" target="_blank">MechaAG</a></li>
 <li><a href="http://techlife.cookpad.com/" target="_blank">クックパッド開発者ブログ</a></li>
-<li><a href="http://enakai00.hatenablog.com/" target="_blank">めもめも</a></li>
 <li><a href="https://aws.amazon.com/jp/blogs/news/" target="_blank">Amazon Web Services ブログ</a></li>
+<li><a href="http://maname.hatenablog.com/" target="_blank">まなめはうす</a></li>
+<li><a href="http://d.hatena.ne.jp/m-hiyama/" target="_blank">檜山正幸のキマイラ飼育記</a></li>
 </ul>
-
 
 <strong>アニメコミック</strong>
 <ul>
-<li><a href="http://touazyuukou.blog40.fc2.com/" target="_blank">電動脳髄ver.3</a></li>
-<li><a href="http://d.hatena.ne.jp/kamiyakenkyujo/" target="_blank">紙屋研究所</a></li>
 <li><a href="http://numagasa.hatenablog.com/" target="_blank">沼の見える街</a></li>
-<li><a href="http://plaza.rakuten.co.jp/neoreeves/" target="_blank">スコシフシギな世界－藤子･F･不二雄ブログ</a></li>
 </ul>
 <strong>ゲーム森羅万象</strong>
 <ul>
-<li><a href="http://minecraft.ologies.net" target="_blank">minecraft</a></li>
-<li><a href="http://zombiepigman.moe/" target="_blank">マインクラフトてんやわんや開拓記</a></li>
+<li><a href="http://minecraft.ologies.net/" target="_blank">minecraft</a></li>
+<li><a href="http://blog.livedoor.jp/zombiepigman/" target="_blank">マインクラフトてんやわんや開拓記</a></li>
 <li><a href="http://mubou.seesaa.net/" target="_blank">不倒城</a></li>
-<li><a href="http://spa-game.com" target="_blank">スパ帝国</a></li>
 <li><a href="http://udontaro.blog79.fc2.com/" target="_blank">ゲーム風呂</a></li>
-<li><a href="http://www.moguragames.com" target="_blank">もぐらゲームス</a></li>
-<li><a href="http://jp.automaton.am" target="_blank">AUTOMATON</a></li>
-<li><a href="http://minecraft-forpc.net" target="_blank">マインクラフトPC版シックスパックで遊ぶブログ！</a></li>
-<li><a href="http://arbor-mc.com" target="_blank">あるぼるのゆるりとマイクラ日記</a></li>
-<li><a href="http://gamebiz.jp" target="_blank">Social Game Info</a></li>
+<li><a href="http://www.moguragames.com/" target="_blank">もぐらゲームス</a></li>
+<li><a href="http://jp.automaton.am/" target="_blank">AUTOMATON</a></li>
+<li><a href="http://minecraft-forpc.net/" target="_blank">マインクラフトPC版シックスパックで遊ぶブログ！</a></li>
+<li><a href="http://arbor-mc.com/" target="_blank">あるぼるのゆるりとマイクラ日記</a></li>
+<li><a href="http://www.factorio.com/blog" target="_blank">Recent Blog Posts</a></li>
+<li><a href="http://www.highriskrevolution.com/gamelife/" target="_blank">Colorful Pieces of Game</a></li>
 </ul>
 <strong>政治経済社会</strong>
 <ul>
 <li><a href="http://www.ishiyuri.com/" target="_blank">石壁に百合の花咲く</a></li>
-<li><a href="http://cruel.hatenablog.com/" target="_blank">山形浩生の「経済のトリセツ」</a></li>
-<li><a href="https://ys347.wordpress.com" target="_blank">Follow the accident. Fear the set plan.</a></li>
+<li><a href="http://d.hatena.ne.jp/wlj-Friday/" target="_blank">山形浩生の「経済のトリセツ」</a></li>
 <li><a href="http://d.hatena.ne.jp/TomoMachi/" target="_blank">映画評論家町山智浩アメリカ日記</a></li>
 <li><a href="http://blog.livedoor.jp/nonreal-pompandcircumstance/" target="_blank">海国防衛ジャーナル</a></li>
 <li><a href="http://d.hatena.ne.jp/himaginary/" target="_blank">himaginaryの日記</a></li>
+<li><a href="http://syakkin-dama.hatenablog.com/" target="_blank">発達障害就労日誌</a></li>
+<li><a href="http://econ101.jp/" target="_blank">経済学101</a></li>
 </ul>
 <strong>文化芸術宗教</strong>
 <ul>
 <li><a href="http://cruel.hatenablog.com/" target="_blank">山形浩生の「経済のトリセツ」</a></li>
+<li><a href="http://huyukiitoichi.hatenadiary.jp/" target="_blank">基本読書</a></li>
 </ul>
 <strong>映画・ザ・ムービー</strong>
 <ul>
+<li><a href="http://kenko-note.cocolog-nifty.com/blog/" target="_blank">C note</a></li>
+<li><a href="http://yudetama.com" target="_blank">ゆでたま時々のりたまの映画愛</a></li>
 <li><a href="http://d.hatena.ne.jp/globalhead/" target="_blank">メモリの藻屑、記憶領域のゴミ</a></li>
 <li><a href="http://movieandtv.blog85.fc2.com/" target="_blank">映画のブログ</a></li>
 <li><a href="http://b9life.hatenablog.com/" target="_blank">びーきゅうらいふ！</a></li>
-</ul>
-<strong>科学技術哲学</strong>
-<ul>
-<li><a href="http://wired.jp" target="_blank">WIRED.jp</a></li>
-<li><a href="http://d.hatena.ne.jp/m-hiyama/" target="_blank">檜山正幸のキマイラ飼育記</a></li>
-<li><a href="http://d.hatena.ne.jp/shorebird/" target="_blank">shorebird　進化心理学中心の書評など</a></li>
-<li><a href="http://blog.goo.ne.jp/ktonegaw?fm=rss" target="_blank">とね日記</a></li>
-<li><a href="http://d.hatena.ne.jp/NATROM/" target="_blank">NATROMの日記</a></li>
-<li><a href="http://blog.livedoor.jp/antroom/" target="_blank">ありんこ日記　AntRoom</a></li>
-<li><a href="http://transact.seesaa.net/" target="_blank">忘却からの帰還</a></li>
-<li><a href="http://sciencebook.blog110.fc2.com/" target="_blank">科学に佇む一行読書の書斎</a></li>
-<li><a href="http://ibaibabaibai-h.hatenablog.com/" target="_blank">ibaibabaibaiのサイエンスブログ</a></li>
 </ul>

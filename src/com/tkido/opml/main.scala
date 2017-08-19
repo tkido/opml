@@ -9,7 +9,7 @@ object main extends App {
   
   val xml = XML.loadFile("data/export.xml")
   
-  val groups = (xml \ "body" \ "outline" \ "outline")
+  val groups = (xml \ "body" \ "outline")
   Logger.debug(groups.size)
   
   Text.write("data/god.txt", groups.map(convertGodAll(_)).mkString("\n"))
