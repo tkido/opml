@@ -1,63 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
   <head>
-    <title>Subscriptions of takanorikido from Inoreader [http://www.inoreader.com]</title>
+    <title>Subscriptions of takanorikido from Inoreader [https://www.inoreader.com]</title>
   </head>
   <body>
-    <outline text="Xevo" title="Xevo">
-      <outline text="ニュース＆プレスリリース フィード" title="ニュース＆プレスリリース フィード" type="rss" xmlUrl="http://www.uievolution.co.jp/news-xml" htmlUrl="http://www.uievolution.co.jp/news"/>
-      <outline text="神は細部に宿り給う" title="神は細部に宿り給う" type="rss" xmlUrl="http://tkido.com/blog/feed" htmlUrl="http://tkido.com/blog"/>
-      <outline text="Life is beautiful" title="Life is beautiful" type="rss" xmlUrl="http://satoshi.blogs.com/life/index.rdf" htmlUrl="http://satoshi.blogs.com/life/"/>
-    </outline>
-    <outline text="WEB情報通信" title="WEB情報通信">
-      <outline text="品田遊" title="品田遊" type="rss" xmlUrl="https://lineblog.me/youshinada/index.rdf" htmlUrl="https://lineblog.me/youshinada/"/>
-      <outline text="西尾泰和のはてなダイアリー" title="西尾泰和のはてなダイアリー" type="rss" xmlUrl="http://d.hatena.ne.jp/nishiohirokazu/rss" htmlUrl="http://d.hatena.ne.jp/nishiohirokazu/"/>
-      <outline text="xuwei-k's blog" title="xuwei-k's blog" type="rss" xmlUrl="http://d.hatena.ne.jp/xuwei/rss" htmlUrl="http://d.hatena.ne.jp/xuwei/"/>
-      <outline text="アカベコマイリ" title="アカベコマイリ" type="rss" xmlUrl="http://akabeko.me/blog/feed/" htmlUrl="http://akabeko.me/blog"/>
-      <outline text="Publickey" title="Publickey" type="rss" xmlUrl="http://www.publickey1.jp/atom.xml" htmlUrl="http://www.publickey1.jp/"/>
-      <outline text="CodeZine:新着一覧" title="CodeZine:新着一覧" type="rss" xmlUrl="http://rss.rssad.jp/rss/codezine/new/20/index.xml" htmlUrl="http://codezine.jp/"/>
-      <outline text="言語ゲーム" title="言語ゲーム" type="rss" xmlUrl="http://d.hatena.ne.jp/propella/rss" htmlUrl="http://d.hatena.ne.jp/propella/"/>
-      <outline text="shi3zの長文日記" title="shi3zの長文日記" type="rss" xmlUrl="http://d.hatena.ne.jp/shi3z/rss2" htmlUrl="http://d.hatena.ne.jp/shi3z/"/>
-      <outline text="琥珀色の戯言" title="琥珀色の戯言" type="rss" xmlUrl="http://d.hatena.ne.jp/fujipon/rss" htmlUrl="http://d.hatena.ne.jp/fujipon/"/>
-      <outline text="ごんざれふ" title="ごんざれふ" type="rss" xmlUrl="http://otsubo.info/blog/atom.xml" htmlUrl="http://otsubo.info/blog"/>
-      <outline text="mizchi's blog" title="mizchi's blog" type="rss" xmlUrl="http://mizchi.hatenablog.com/feed" htmlUrl="http://mizchi.hatenablog.com/"/>
-      <outline text="柴田 芳樹 (Yoshiki Shibata)" title="柴田 芳樹 (Yoshiki Shibata)" type="rss" xmlUrl="http://yshibata.blog.so-net.ne.jp/index.rdf" htmlUrl="http://yshibata.blog.so-net.ne.jp/"/>
-      <outline text="レブログ！" title="レブログ！" type="rss" xmlUrl="http://mclover.net/reblog/feed/" htmlUrl="http://mclover.net/reblog"/>
-      <outline text="paiza開発日誌" title="paiza開発日誌" type="rss" xmlUrl="http://paiza.hatenablog.com/feed" htmlUrl="http://paiza.hatenablog.com/"/>
-      <outline text="わたしが知らないスゴ本は、きっとあなたが読んでいる" title="わたしが知らないスゴ本は、きっとあなたが読んでいる" type="rss" xmlUrl="http://dain.cocolog-nifty.com/myblog/atom.xml" htmlUrl="http://dain.cocolog-nifty.com/myblog/"/>
-      <outline text="POSTD" title="POSTD" type="rss" xmlUrl="http://postd.cc/feed/" htmlUrl="http://postd.cc/"/>
-      <outline text="GoTheDistance" title="GoTheDistance" type="rss" xmlUrl="http://gothedistance.hatenadiary.jp/feed" htmlUrl="http://gothedistance.hatenadiary.jp/"/>
-      <outline text="MechaAG" title="MechaAG" type="rss" xmlUrl="http://mechaag.tumblr.com/rss" htmlUrl="http://mechaag.tumblr.com/"/>
-      <outline text="クックパッド開発者ブログ" title="クックパッド開発者ブログ" type="rss" xmlUrl="http://techlife.cookpad.com/feed" htmlUrl="http://techlife.cookpad.com/"/>
-      <outline text="Amazon Web Services ブログ" title="Amazon Web Services ブログ" type="rss" xmlUrl="https://aws.amazon.com/jp/blogs/news/feed/" htmlUrl="https://aws.amazon.com/jp/blogs/news/"/>
-      <outline text="まなめはうす" title="まなめはうす" type="rss" xmlUrl="http://maname.hatenablog.com/feed" htmlUrl="http://maname.hatenablog.com/"/>
-      <outline text="檜山正幸のキマイラ飼育記" title="檜山正幸のキマイラ飼育記" type="rss" xmlUrl="http://d.hatena.ne.jp/m-hiyama/rss" htmlUrl="http://d.hatena.ne.jp/m-hiyama/"/>
-    </outline>
     <outline text="それにつけても金のほしさよ" title="それにつけても金のほしさよ">
-      <outline text="IPO・新規公開株 – 株式・証券会社比較情報サイト 96ut.kabu" title="IPO・新規公開株 – 株式・証券会社比較情報サイト 96ut.kabu" type="rss" xmlUrl="http://kabu.96ut.com/article/category/ipo/feed/" htmlUrl="http://kabu.96ut.com"/>
-      <outline text="プロフェッサー小島健輔の言いたい放題（小島ファッションマーケティング代表）" title="プロフェッサー小島健輔の言いたい放題（小島ファッションマーケティング代表）" type="rss" xmlUrl="http://apalog.com/kojima/index1_0.rdf" htmlUrl="http://apalog.com/kojima/"/>
       <outline text="日々是好日" title="日々是好日" type="rss" xmlUrl="http://rssblog.ameba.jp/aqofbq/rss20.xml" htmlUrl="http://ameblo.jp/aqofbq/"/>
-      <outline text="休むも相場。" title="休むも相場。" type="rss" xmlUrl="http://www.araizumi.site/index.rdf" htmlUrl="http://www.araizumi.site/"/>
-      <outline text="海外ETFで資産運用" title="海外ETFで資産運用" type="rss" xmlUrl="http://ic.edge.jp/page2feed/http://www.netemate.net/" htmlUrl="http://www.netemate.net/"/>
-      <outline text="成長株投資とロシア妻との日々" title="成長株投資とロシア妻との日々" type="rss" xmlUrl="http://tecnhofunda.blog.fc2.com/?xml" htmlUrl="http://tecnhofunda.blog.fc2.com/"/>
-      <outline text="堀古英司の「米国株式の魅力」" title="堀古英司の「米国株式の魅力」" type="rss" xmlUrl="https://api.plaza.rakuten.ne.jp/iswallstreet/rss/" htmlUrl="https://plaza.rakuten.co.jp/iswallstreet/"/>
+      <outline text="資産防衛の日々" title="資産防衛の日々" type="rss" xmlUrl="http://picul.hatenablog.jp/feed" htmlUrl="http://picul.hatenablog.jp/"/>
+      <outline text="2020年への資産運用の旅　（インデックス投資の記録）" title="2020年への資産運用の旅　（インデックス投資の記録）" type="rss" xmlUrl="http://nantes20xx.com/feed/" htmlUrl="http://nantes20xx.com/"/>
+      <outline text="金利とセンチメントから資産価値を考えるブログ" title="金利とセンチメントから資産価値を考えるブログ" type="rss" xmlUrl="http://shenmacro.blog.jp/index.rdf" htmlUrl="http://shenmacro.blog.jp/"/>
+      <outline text="ワイルドインベスターズ投資ブログ" title="ワイルドインベスターズ投資ブログ" type="rss" xmlUrl="http://blog.livedoor.jp/contrarian65-wild/index.rdf" htmlUrl="http://blog.livedoor.jp/contrarian65-wild/"/>
+      <outline text="人の行く裏に道あり花の山" title="人の行く裏に道あり花の山" type="rss" xmlUrl="http://capitalmarket.jp/feed/" htmlUrl="http://capitalmarket.jp/"/>
+      <outline text="ばりすたの株式備忘録" title="ばりすたの株式備忘録" type="rss" xmlUrl="http://barista-stock.hatenablog.com/feed" htmlUrl="http://barista-stock.hatenablog.com/"/>
+      <outline text="べる投資ブログ" title="べる投資ブログ" type="rss" xmlUrl="https://bellppy25.hatenablog.com/feed" htmlUrl="https://bellppy25.hatenablog.com/"/>
+      <outline text="村越誠の投資資本主義" title="村越誠の投資資本主義" type="rss" xmlUrl="http://muragoe-makoto.blog.jp/index.rdf" htmlUrl="http://muragoe-makoto.blog.jp/"/>
+      <outline text="株ブログ はっしゃん式 長期株投資" title="株ブログ はっしゃん式 長期株投資" type="rss" xmlUrl="http://hashang.kabuka.biz/feed" htmlUrl="http://hashang.kabuka.biz/"/>
+      <outline text="あつまろのこだわり資産運用" title="あつまろのこだわり資産運用" type="rss" xmlUrl="https://atsumaro.net/feed/" htmlUrl="https://atsumaro.net/"/>
+      <outline text="PRENOM's Stock Investment" title="PRENOM's Stock Investment" type="rss" xmlUrl="https://prenom80.blogspot.com/feeds/posts/default" htmlUrl="http://prenom80.blogspot.com/"/>
+      <outline text="ぴょん吉 ど根性 カブ ブログ" title="ぴょん吉 ど根性 カブ ブログ" type="rss" xmlUrl="http://www.pyonkiti.work/feed" htmlUrl="http://www.pyonkiti.work/"/>
+      <outline text="家族で育てる資産の木" title="家族で育てる資産の木" type="rss" xmlUrl="http://happyassetplan.com/feed/" htmlUrl="http://happyassetplan.com/"/>
+      <outline text="化学男のバリュー投資" title="化学男のバリュー投資" type="rss" xmlUrl="http://kagakuotoko.jp/?xml" htmlUrl="http://kagakuotoko.jp/"/>
+      <outline text="みんなの運用会議" title="みんなの運用会議" type="rss" xmlUrl="https://double-growth.com/feed/" htmlUrl="https://double-growth.com"/>
+      <outline text="バフェット・コードのブログ" title="バフェット・コードのブログ" type="rss" xmlUrl="https://blog.buffett-code.com/feed" htmlUrl="https://blog.buffett-code.com/"/>
+      <outline text="駄犬の株ログ" title="駄犬の株ログ" type="rss" xmlUrl="http://daken.hatenablog.jp/rss" htmlUrl="http://daken.hatenablog.jp/"/>
+      <outline text="デリバティブ偏愛家の日記" title="デリバティブ偏愛家の日記" type="rss" xmlUrl="http://delta-hedge.xyz/feed/" htmlUrl="http://delta-hedge.xyz/"/>
+      <outline text="takenaka1221のブログ" title="takenaka1221のブログ" type="rss" xmlUrl="https://takenaka1221.hatenablog.com/feed" htmlUrl="https://takenaka1221.hatenablog.com/"/>
+      <outline text="資本家を目指すKyleの株式投機ブログ" title="資本家を目指すKyleの株式投機ブログ" type="rss" xmlUrl="http://andrekyle.blog.fc2.com/?xml" htmlUrl="http://andrekyle.blog.fc2.com/"/>
+      <outline text="ハゲ持ち父さん、貧乏父さん" title="ハゲ持ち父さん、貧乏父さん" type="rss" xmlUrl="https://geus.hateblo.jp/feed" htmlUrl="https://geus.hateblo.jp/"/>
+      <outline text="栗のトレードメモ" title="栗のトレードメモ" type="rss" xmlUrl="http://yyy1980-trade.blog.jp/index.rdf" htmlUrl="http://yyy1980-trade.blog.jp/"/>
+      <outline text="ろくすけの長期投資の旅" title="ろくすけの長期投資の旅" type="rss" xmlUrl="https://6suke.com/feed/" htmlUrl="https://6suke.com/"/>
+      <outline text="あかんやつマンの開示速報" title="あかんやつマンの開示速報" type="rss" xmlUrl="https://kabuakan.blog.fc2.com/?xml" htmlUrl="https://kabuakan.blog.fc2.com/"/>
+      <outline text="夕ピ丘" title="夕ピ丘" type="rss" xmlUrl="https://youpioca.com/feed" htmlUrl="https://youpioca.com/"/>
+      <outline text="きーぜるの雪玉ころころ。" title="きーぜるの雪玉ころころ。" type="rss" xmlUrl="http://snow-ball.net/index.rdf" htmlUrl="http://snow-ball.net/"/>
+      <outline text="木原直哉オフィシャルブログ" title="木原直哉オフィシャルブログ" type="rss" xmlUrl="http://kihara-poker.hatenablog.com/feed" htmlUrl="http://kihara-poker.hatenablog.com/"/>
+      <outline text="キリギリスのように暮らし、アリのように蓄える" title="キリギリスのように暮らし、アリのように蓄える" type="rss" xmlUrl="https://magic1821.blog.fc2.com/?xml" htmlUrl="https://magic1821.blog.fc2.com/"/>
+      <outline text="小型株投資の日記" title="小型株投資の日記" type="rss" xmlUrl="https://physis.hateblo.jp/feed" htmlUrl="https://physis.hateblo.jp/"/>
       <outline text="のりぞーの目指せ壱億円！" title="のりぞーの目指せ壱億円！" type="rss" xmlUrl="http://blog.livedoor.jp/norizou2005/index.rdf" htmlUrl="http://blog.livedoor.jp/norizou2005/"/>
       <outline text="インデックス・ドライバー" title="インデックス・ドライバー" type="rss" xmlUrl="http://indexdriver.blog.shinobi.jp/RSS/" htmlUrl="http://indexdriver.blog.shinobi.jp/"/>
-      <outline text="紅の鹿の日記" title="紅の鹿の日記" type="rss" xmlUrl="http://cervorosso.blog.jp/index.rdf" htmlUrl="http://cervorosso.blog.jp/"/>
       <outline text="ゲーム銘柄で一攫千金（旧　短期トレードで勝ちを重ねる）" title="ゲーム銘柄で一攫千金（旧　短期トレードで勝ちを重ねる）" type="rss" xmlUrl="http://rssblog.ameba.jp/kirito-99/rss20.xml" htmlUrl="http://ameblo.jp/kirito-99/"/>
-      <outline text="鴨とネギの投資生活" title="鴨とネギの投資生活" type="rss" xmlUrl="http://api.plaza.rakuten.ne.jp/100hajime/rss/" htmlUrl="http://plaza.rakuten.co.jp/100hajime/"/>
       <outline text="lodestar的投資日記" title="lodestar的投資日記" type="rss" xmlUrl="http://api.plaza.rakuten.ne.jp/lodestar2006/rss/" htmlUrl="http://plaza.rakuten.co.jp/lodestar2006/"/>
-      <outline text="2020年への資産運用の旅 （インデックス投資の記録）" title="2020年への資産運用の旅 （インデックス投資の記録）" type="rss" xmlUrl="http://blog.livedoor.jp/taipon777/index.rdf" htmlUrl="http://blog.livedoor.jp/taipon777/"/>
       <outline text="若手サラリーマンのバリュー投資日記" title="若手サラリーマンのバリュー投資日記" type="rss" xmlUrl="http://blog.livedoor.jp/kabu2013/index.rdf" htmlUrl="http://blog.livedoor.jp/kabu2013/"/>
       <outline text="つなわたりのまいにち（専業投資家日記）" title="つなわたりのまいにち（専業投資家日記）" type="rss" xmlUrl="http://a1000miles.blog.fc2.com/?xml" htmlUrl="http://a1000miles.blog.fc2.com/"/>
       <outline text="かぶ１０００投資日記" title="かぶ１０００投資日記" type="rss" xmlUrl="http://api.plaza.rakuten.ne.jp/kabu1000/rss/" htmlUrl="http://plaza.rakuten.co.jp/kabu1000/"/>
-      <outline text="Market Hack" title="Market Hack" type="rss" xmlUrl="http://markethack.net/atom.xml" htmlUrl="http://markethack.net/"/>
       <outline text="iFund運用報告書" title="iFund運用報告書" type="rss" xmlUrl="http://ito1973.blogspot.com/feeds/posts/default" htmlUrl="http://ito1973.blogspot.com/"/>
       <outline text="帝国データバンク 大型倒産速報" title="帝国データバンク 大型倒産速報" type="rss" xmlUrl="http://www.tdb.co.jp/rss/jouhou.rdf" htmlUrl="http://www.tdb.co.jp/tosan/jouhou.html"/>
       <outline text="株の話、経済の話、何の話だろう？" title="株の話、経済の話、何の話だろう？" type="rss" xmlUrl="http://kabukeizainani.blogspot.com/feeds/posts/default" htmlUrl="http://kabukeizainani.blogspot.com/"/>
       <outline text="インターネット界隈の事を調べるお" title="インターネット界隈の事を調べるお" type="rss" xmlUrl="http://takanoridayo.blog.shinobi.jp/RSS/" htmlUrl="http://takanoridayo.blog.shinobi.jp/"/>
       <outline text="亀吉の投資メモ" title="亀吉の投資メモ" type="rss" xmlUrl="http://blog.livedoor.jp/ichonan-investment/index.rdf" htmlUrl="http://blog.livedoor.jp/ichonan-investment/"/>
-      <outline text="J.S.エコハのブログ" title="J.S.エコハのブログ" type="rss" xmlUrl="http://kameleon-kameleon.blogspot.com/feeds/posts/default" htmlUrl="http://kameleon-kameleon.blogspot.com/"/>
       <outline text="ウチナーサラリーマンの投資・グルメブログ" title="ウチナーサラリーマンの投資・グルメブログ" type="rss" xmlUrl="http://rssblog.ameba.jp/trick-bz/rss20.xml" htmlUrl="http://ameblo.jp/trick-bz/"/>
       <outline text="みきまるの優待バリュー株日誌" title="みきまるの優待バリュー株日誌" type="rss" xmlUrl="http://api.plaza.rakuten.ne.jp/mikimaru71/rss/" htmlUrl="http://plaza.rakuten.co.jp/mikimaru71/"/>
       <outline text="雅の日記～お気楽生活をめざして" title="雅の日記～お気楽生活をめざして" type="rss" xmlUrl="http://api.plaza.rakuten.ne.jp/slowsheep/rss/" htmlUrl="http://plaza.rakuten.co.jp/slowsheep/"/>
@@ -68,25 +57,17 @@
       <outline text="YAMDAS現更新履歴" title="YAMDAS現更新履歴" type="rss" xmlUrl="http://d.hatena.ne.jp/yomoyomo/rss" htmlUrl="http://d.hatena.ne.jp/yomoyomo/"/>
       <outline text="成長株で億万長者" title="成長株で億万長者" type="rss" xmlUrl="http://growth-stock.blog.jp/index.rdf" htmlUrl="http://growth-stock.blog.jp/"/>
       <outline text="GoldmanSacheeの優待株投資" title="GoldmanSacheeの優待株投資" type="rss" xmlUrl="http://api.plaza.rakuten.ne.jp/kabuffet963/rss/" htmlUrl="http://plaza.rakuten.co.jp/kabuffet963/"/>
-      <outline text="マ◯ーの虎　ハリマオの投資日記" title="マ◯ーの虎　ハリマオの投資日記" type="rss" xmlUrl="http://blog.livedoor.jp/harimau_kabu/index.rdf" htmlUrl="http://blog.livedoor.jp/harimau_kabu/"/>
       <outline text="投資逍遥" title="投資逍遥" type="rss" xmlUrl="http://api.plaza.rakuten.ne.jp/seiyan36/rss/" htmlUrl="http://plaza.rakuten.co.jp/seiyan36/"/>
       <outline text="アダム・スミス２世の経済解説" title="アダム・スミス２世の経済解説" type="rss" xmlUrl="http://stockbondcurrency.blog.fc2.com/?xml" htmlUrl="http://stockbondcurrency.blog.fc2.com/"/>
-      <outline text="いもらうの立会外分売 分析予想" title="いもらうの立会外分売 分析予想" type="rss" xmlUrl="http://bunbai-yosou.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://bunbai-yosou.blogspot.com/"/>
       <outline text="ほいみんの　のんびり日記" title="ほいみんの　のんびり日記" type="rss" xmlUrl="http://rssblog.ameba.jp/takechan/rss20.xml" htmlUrl="http://ameblo.jp/takechan/"/>
       <outline text="アーリーリタイヤへの道" title="アーリーリタイヤへの道" type="rss" xmlUrl="http://larkstongueaspic.blog.fc2.com/?xml" htmlUrl="http://larkstongueaspic.blog.fc2.com/"/>
       <outline text="消費せず働きもしない未来を歩む遊民の独白" title="消費せず働きもしない未来を歩む遊民の独白" type="rss" xmlUrl="http://noneedbuy.blog.fc2.com/?xml" htmlUrl="http://noneedbuy.blog.fc2.com/"/>
-      <outline text="東証Project" title="東証Project" type="rss" xmlUrl="http://blog.livedoor.jp/love_aeria/index.rdf" htmlUrl="http://blog.livedoor.jp/love_aeria/"/>
-      <outline text="バリュー投資のすすめ　～思ってるやつと違うからな～" title="バリュー投資のすすめ　～思ってるやつと違うからな～" type="rss" xmlUrl="http://blog.livedoor.jp/zawakamifund/index.rdf" htmlUrl="http://blog.livedoor.jp/zawakamifund/"/>
       <outline text="バフェット流バリュー株投資で資産形成＋" title="バフェット流バリュー株投資で資産形成＋" type="rss" xmlUrl="http://mnt01.blogspot.com/feeds/posts/default" htmlUrl="http://mnt01.blogspot.com/"/>
-      <outline text="あつまろのこだわり資産運用" title="あつまろのこだわり資産運用" type="rss" xmlUrl="http://atsumaro.doorblog.jp/index.rdf" htmlUrl="http://atsumaro.doorblog.jp/"/>
       <outline text="100man1oku｜サラリーマンが株で100万円を1億円にするブログ" title="100man1oku｜サラリーマンが株で100万円を1億円にするブログ" type="rss" xmlUrl="http://100man1oku.main.jp/feed" htmlUrl="http://100man1oku.main.jp/"/>
       <outline text="個人投資家パフォーマンスランキング" title="個人投資家パフォーマンスランキング" type="rss" xmlUrl="http://value-ranking.seesaa.net/index.rdf" htmlUrl="http://value-ranking.seesaa.net/"/>
       <outline text="吊られた男の投資ブログ (インデックス投資)" title="吊られた男の投資ブログ (インデックス投資)" type="rss" xmlUrl="http://www.tsurao.com/index.rdf" htmlUrl="http://www.tsurao.com/"/>
-      <outline text="期待値で計るバリュー投資　無期限信用取引　有" title="期待値で計るバリュー投資　無期限信用取引　有" type="rss" xmlUrl="http://api.plaza.rakuten.ne.jp/seigo182/rss/" htmlUrl="http://plaza.rakuten.co.jp/seigo182/"/>
       <outline text="市況かぶ全力２階建" title="市況かぶ全力２階建" type="rss" xmlUrl="http://kabumatome.doorblog.jp/index.rdf" htmlUrl="http://kabumatome.doorblog.jp/"/>
       <outline text="モラトリアムサラリーマンの長期投資株ブログ" title="モラトリアムサラリーマンの長期投資株ブログ" type="rss" xmlUrl="http://kabumoratorium.com/?xml" htmlUrl="http://kabumoratorium.com/"/>
-      <outline text="かえるの気長な生活日記。" title="かえるの気長な生活日記。" type="rss" xmlUrl="http://feeds2.feedburner.com/jp/kaeru" htmlUrl="http://kaeru.orio.jp/"/>
-      <outline text="多くの人には逆さに見えても #Investudy" title="多くの人には逆さに見えても #Investudy" type="rss" xmlUrl="http://mazyoshisystemlabo.tumblr.com/rss" htmlUrl="http://mazyoshisystemlabo.tumblr.com/"/>
       <outline text="株ライフブログ" title="株ライフブログ" type="rss" xmlUrl="http://www.kablife.com/wp/feed/" htmlUrl="http://www.kablife.com/wp"/>
       <outline text="Passiveな投資とActiveな未来" title="Passiveな投資とActiveな未来" type="rss" xmlUrl="http://pension.blog88.fc2.com/?xml" htmlUrl="http://pension.blog88.fc2.com/"/>
       <outline text="21世紀投資" title="21世紀投資" type="rss" xmlUrl="http://rssblog.ameba.jp/v-com2/rss20.xml" htmlUrl="http://ameblo.jp/v-com2/"/>
@@ -94,43 +75,25 @@
       <outline text="幸せなお金持ち的日記" title="幸せなお金持ち的日記" type="rss" xmlUrl="http://thehappyman.blog.fc2.com/?xml" htmlUrl="http://thehappyman.blog.fc2.com/"/>
       <outline text="poohの毎日～40代アーリーリタイア夫婦の暮らし～" title="poohの毎日～40代アーリーリタイア夫婦の暮らし～" type="rss" xmlUrl="http://pooh2013.blog.fc2.com/?xml" htmlUrl="http://pooh2013.blog.fc2.com/"/>
       <outline text="たけなか まさはる" title="たけなか まさはる" type="rss" xmlUrl="http://blogs.yahoo.co.jp/takenaka1221/rss.xml" htmlUrl="http://rdsig.yahoo.co.jp/rss/l/blog/myblog/rss2/url/RV=1/RU=aHR0cDovL2Jsb2dzLnlhaG9vLmNvLmpwL3Rha2VuYWthMTIyMQ--"/>
-      <outline text="ヤマノ投信" title="ヤマノ投信" type="rss" xmlUrl="http://early-retire.com/feed/atom" htmlUrl="http://early-retire.com/"/>
       <outline text="IPO初値予想/分析　IPOストライカーの投資ブログ！" title="IPO初値予想/分析　IPOストライカーの投資ブログ！" type="rss" xmlUrl="http://ipo-striker.com/index.rdf" htmlUrl="http://ipo-striker.com/"/>
       <outline text="There is no free lunch" title="There is no free lunch" type="rss" xmlUrl="http://api.plaza.rakuten.ne.jp/snoozer8888/rss/" htmlUrl="http://plaza.rakuten.co.jp/snoozer8888/"/>
-      <outline text="アーリーセミリタイア生活日記" title="アーリーセミリタイア生活日記" type="rss" xmlUrl="http://oniwasblog.seesaa.net/index.rdf" htmlUrl="http://oniwasblog.seesaa.net/"/>
-      <outline text="ひでファンド" title="ひでファンド" type="rss" xmlUrl="http://api.plaza.rakuten.ne.jp/hidefund/rss/" htmlUrl="http://plaza.rakuten.co.jp/hidefund/"/>
       <outline text="スイングトレード ★ 日記." title="スイングトレード ★ 日記." type="rss" xmlUrl="http://blog.livedoor.jp/ss2286234570/index.rdf" htmlUrl="http://blog.livedoor.jp/ss2286234570/"/>
-      <outline text="仙人の祈り" title="仙人の祈り" type="rss" xmlUrl="http://senninn.blog.fc2.com/?xml" htmlUrl="http://senninn.blog.fc2.com/"/>
-      <outline text="株をはじめる前に読むブログ" title="株をはじめる前に読むブログ" type="rss" xmlUrl="http://kabuohazimeru.blog22.fc2.com/?xml" htmlUrl="http://kabuohazimeru.blog22.fc2.com/"/>
       <outline text="株主優待と高配当株を買い続ける株式投資ブログ" title="株主優待と高配当株を買い続ける株式投資ブログ" type="rss" xmlUrl="http://kibinago7777.blogspot.com/feeds/posts/default" htmlUrl="http://kibinago7777.blogspot.com/"/>
-      <outline text="ろくすけの長期投資の旅" title="ろくすけの長期投資の旅" type="rss" xmlUrl="http://blog.goo.ne.jp/6_suke/rss2.xml" htmlUrl="http://blog.goo.ne.jp/6_suke?fm=rss"/>
       <outline text="コムストックの投機日記" title="コムストックの投機日記" type="rss" xmlUrl="http://blog.livedoor.jp/hk_131/index.rdf" htmlUrl="http://blog.livedoor.jp/hk_131/"/>
       <outline text="Porco Rosso Financial Weblog" title="Porco Rosso Financial Weblog" type="rss" xmlUrl="http://ningyocho.blogspot.com/feeds/posts/default" htmlUrl="http://ningyocho.blogspot.com/"/>
       <outline text="いもらうの負けない投資　【分析で相場に勝つ】" title="いもらうの負けない投資　【分析で相場に勝つ】" type="rss" xmlUrl="http://imolau.blog99.fc2.com/?xml" htmlUrl="http://imolau.blog99.fc2.com/"/>
       <outline text="橘玲 公式サイト" title="橘玲 公式サイト" type="rss" xmlUrl="http://www.tachibana-akira.com/feed" htmlUrl="http://www.tachibana-akira.com/"/>
       <outline text="「配当金を雪だるま式に増やす投資日記」Dividend Snowball Investing" title="「配当金を雪だるま式に増やす投資日記」Dividend Snowball Investing" type="rss" xmlUrl="http://dividendsnowball.blogspot.com/feeds/posts/default" htmlUrl="http://dividendsnowball.blogspot.com/"/>
-      <outline text="しがないディーラーのブログ" title="しがないディーラーのブログ" type="rss" xmlUrl="http://rssblog.ameba.jp/tetsu219/rss20.xml" htmlUrl="http://ameblo.jp/tetsu219/"/>
-      <outline text="みやの株主優待投資日記" title="みやの株主優待投資日記" type="rss" xmlUrl="http://miyanokabu.blog.fc2.com/?xml" htmlUrl="http://miyanokabu.blog.fc2.com/"/>
       <outline text="アゴウの日記" title="アゴウの日記" type="rss" xmlUrl="http://blog.livedoor.jp/agou2/index.rdf" htmlUrl="http://blog.livedoor.jp/agou2/"/>
-      <outline text="ホンネの資産運用セミナー（インデックス投資ブログ）" title="ホンネの資産運用セミナー（インデックス投資ブログ）" type="rss" xmlUrl="http://genuinvest.net/?mode=rss" htmlUrl="http://genuinvest.net/"/>
-      <outline text="本日の増担保規制解除ライン" title="本日の増担保規制解除ライン" type="rss" xmlUrl="http://masitan.blog.fc2.com/?xml" htmlUrl="http://masitan.blog.fc2.com/"/>
-      <outline text="株式投資で資産、早期5000万円を目指す" title="株式投資で資産、早期5000万円を目指す" type="rss" xmlUrl="http://aketemiyo-akazunoma.doorblog.jp/index.rdf" htmlUrl="http://aketemiyo-akazunoma.doorblog.jp/"/>
-      <outline text="てーげー投資ライフのすすめ！" title="てーげー投資ライフのすすめ！" type="rss" xmlUrl="http://freepapa.enjyuku-blog.com/feed" htmlUrl="http://freepapa.enjyuku-blog.com/"/>
       <outline text="かすみちゃんの株主優待日記" title="かすみちゃんの株主優待日記" type="rss" xmlUrl="http://blog.livedoor.jp/setuyaku999/index.rdf" htmlUrl="http://blog.livedoor.jp/setuyaku999/"/>
       <outline text="もっとお金の話がしたい" title="もっとお金の話がしたい" type="rss" xmlUrl="http://www.money-motto.com/feed/" htmlUrl="http://www.money-motto.com/"/>
-      <outline text="白米っ式見せかけバリュー投資" title="白米っ式見せかけバリュー投資" type="rss" xmlUrl="http://api.plaza.rakuten.ne.jp/sooo0831/rss/" htmlUrl="http://plaza.rakuten.co.jp/sooo0831/"/>
       <outline text="まつを。の投資日記" title="まつを。の投資日記" type="rss" xmlUrl="http://matsuwo2005.blogspot.com/feeds/posts/default" htmlUrl="http://matsuwo2005.blogspot.com/"/>
       <outline text="牛さん熊さんブログ" title="牛さん熊さんブログ" type="rss" xmlUrl="http://bullbear.exblog.jp/index.xml" htmlUrl="http://bullbear.exblog.jp/"/>
-      <outline text="DUKE。のサーフィンインベストメント" title="DUKE。のサーフィンインベストメント" type="rss" xmlUrl="http://investorduke.blog.fc2.com/?xml" htmlUrl="http://investorduke.blog.fc2.com/"/>
       <outline text="資金管理の掟" title="資金管理の掟" type="rss" xmlUrl="http://blog.livedoor.jp/avexfreak/index.rdf" htmlUrl="http://blog.livedoor.jp/avexfreak/"/>
       <outline text="フクリの海外ＥＴＦ長期投資ブログ" title="フクリの海外ＥＴＦ長期投資ブログ" type="rss" xmlUrl="http://etf-investment.com/?feed=rss2" htmlUrl="http://etf-investment.com"/>
       <outline text="株式・証券会社比較情報サイト 96ut.kabu" title="株式・証券会社比較情報サイト 96ut.kabu" type="rss" xmlUrl="http://kabu.96ut.com/feed/" htmlUrl="http://kabu.96ut.com/"/>
-      <outline text="IPO初値予想ブログなら、キムさんのIPO投資日記" title="IPO初値予想ブログなら、キムさんのIPO投資日記" type="rss" xmlUrl="http://deskpower.blog80.fc2.com/?xml" htmlUrl="http://deskpower.blog80.fc2.com/"/>
       <outline text="家計＆資産管理マニュアル" title="家計＆資産管理マニュアル" type="rss" xmlUrl="http://kakeibo.lay-up.net/feed" htmlUrl="http://kakeibo.lay-up.net/"/>
       <outline text="偏屈たぬきのへそまがり投資日記" title="偏屈たぬきのへそまがり投資日記" type="rss" xmlUrl="http://api.plaza.rakuten.ne.jp/hananoyama/rss/" htmlUrl="http://plaza.rakuten.co.jp/hananoyama/"/>
-      <outline text="ケン坊の資産運用日記" title="ケン坊の資産運用日記" type="rss" xmlUrl="http://kenbou-invest.blog.jp/index.rdf" htmlUrl="http://kenbou-invest.blog.jp/"/>
-      <outline text="勝藤史郎のブログ" title="勝藤史郎のブログ" type="rss" xmlUrl="http://shirokatsufuji.blog.fc2.com/?xml" htmlUrl="http://shirokatsufuji.blog.fc2.com/"/>
-      <outline text="堀古英司の「米国株式の魅力」" title="堀古英司の「米国株式の魅力」" type="rss" xmlUrl="http://api.plaza.rakuten.ne.jp/iswallstreet/rss/" htmlUrl="http://plaza.rakuten.co.jp/iswallstreet/"/>
       <outline text="映画を見ながら株式投資" title="映画を見ながら株式投資" type="rss" xmlUrl="http://blog.goo.ne.jp/livin_on_a_prayer/index.rdf" htmlUrl="http://blog.goo.ne.jp/livin_on_a_prayer?fm=rss"/>
       <outline text="すぽさん投資ぶろぐ" title="すぽさん投資ぶろぐ" type="rss" xmlUrl="http://www.spotoushi.net/index.rdf" htmlUrl="http://www.spotoushi.net/"/>
       <outline text="あらなみの里" title="あらなみの里" type="rss" xmlUrl="http://aranami718.blog.fc2.com/?xml" htmlUrl="http://aranami718.blog.fc2.com/"/>
@@ -138,58 +101,52 @@
       <outline text="インデックス投資家からの脱却      （アンチインデックス）" title="インデックス投資家からの脱却      （アンチインデックス）" type="rss" xmlUrl="http://anti-index.blog.jp/index.rdf" htmlUrl="http://anti-index.blog.jp/"/>
       <outline text="「株価プレス」" title="「株価プレス」" type="rss" xmlUrl="http://kabu-press.com/feed/" htmlUrl="http://kabu-press.com/"/>
       <outline text="ニュース屋さん＠日本株式投資" title="ニュース屋さん＠日本株式投資" type="rss" xmlUrl="http://news830.com/feed" htmlUrl="http://news830.com/"/>
-      <outline text="ヤマノ投信" title="ヤマノ投信" type="rss" xmlUrl="http://early-retire.com/feed" htmlUrl="http://early-retire.com/"/>
       <outline text="Not-So-News" title="Not-So-News" type="rss" xmlUrl="http://nots.hatenablog.com/feed" htmlUrl="http://nots.hatenablog.com/"/>
       <outline text="マネーニュース2ch" title="マネーニュース2ch" type="rss" xmlUrl="http://okanehadaiji.com/index.rdf" htmlUrl="http://okanehadaiji.com/"/>
       <outline text="中長期投資の練習記録" title="中長期投資の練習記録" type="rss" xmlUrl="http://tryinvesting.blog.fc2.com/?xml" htmlUrl="http://tryinvesting.blog.fc2.com/"/>
       <outline text="やまもといちろう" title="やまもといちろう" type="rss" xmlUrl="http://lineblog.me/yamamotoichiro/index.rdf" htmlUrl="http://lineblog.me/yamamotoichiro/"/>
-      <outline text="エナフンさんの梨の木" title="エナフンさんの梨の木" type="rss" xmlUrl="http://rssblog.ameba.jp/okuyama-tukito/rss20.xml" htmlUrl="http://ameblo.jp/okuyama-tukito/"/>
-      <outline text="ドル使いの海外投資" title="ドル使いの海外投資" type="rss" xmlUrl="http://useusd.com/feed/" htmlUrl="http://useusd.com/"/>
-      <outline text="決算ダービー" title="決算ダービー" type="rss" xmlUrl="http://blog.livedoor.jp/kessanderby/index.rdf" htmlUrl="http://blog.livedoor.jp/kessanderby/"/>
-      <outline text="うえけんの株式投資おぼえ書き" title="うえけんの株式投資おぼえ書き" type="rss" xmlUrl="http://value-investment.uekenweb.com/feed/" htmlUrl="http://value-investment.uekenweb.com"/>
-      <outline text="午後三時のジェットコースター　by　レイ" title="午後三時のジェットコースター　by　レイ" type="rss" xmlUrl="http://rssblog.ameba.jp/rayichijyo/rss20.xml" htmlUrl="http://ameblo.jp/rayichijyo/"/>
       <outline text="株投資でマイホーム" title="株投資でマイホーム" type="rss" xmlUrl="http://kakky77.blog47.fc2.com/?xml" htmlUrl="http://kakky77.blog47.fc2.com/"/>
-      <outline text="孤高のFX" title="孤高のFX" type="rss" xmlUrl="http://yasufx.com/feed" htmlUrl="http://yasufx.com/"/>
-      <outline text="リスクとリターンを見極める！" title="リスクとリターンを見極める！" type="rss" xmlUrl="http://kabutomotaro.blog9.fc2.com/?xml" htmlUrl="http://kabutomotaro.blog9.fc2.com/"/>
-      <outline text="野獣株投資" title="野獣株投資" type="rss" xmlUrl="http://yajyusan.hatenablog.com/feed" htmlUrl="http://yajyusan.hatenablog.com/"/>
-      <outline text="バフェット太郎の秘密のポートフォリオ（米国株配当再投資戦略）" title="バフェット太郎の秘密のポートフォリオ（米国株配当再投資戦略）" type="rss" xmlUrl="http://blog.livedoor.jp/buffett_taro/index.rdf" htmlUrl="http://blog.livedoor.jp/buffett_taro/"/>
       <outline text="ひとり配当金生活" title="ひとり配当金生活" type="rss" xmlUrl="http://haitoukinseikatu.com/?xml" htmlUrl="http://haitoukinseikatu.com/"/>
       <outline text="節約発投資行き" title="節約発投資行き" type="rss" xmlUrl="http://betseldom.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://betseldom.blogspot.com/"/>
-      <outline text="戦略的投資思考" title="戦略的投資思考" type="rss" xmlUrl="http://www.mogukabu.info/index.rdf" htmlUrl="http://www.mogukabu.info/"/>
+    </outline>
+    <outline text="Xevo" title="Xevo">
+      <outline text="神は細部に宿り給う" title="神は細部に宿り給う" type="rss" xmlUrl="http://tkido.com/blog/feed" htmlUrl="http://tkido.com/blog"/>
+    </outline>
+    <outline text="WEB情報通信" title="WEB情報通信">
+      <outline text="エンジニアHub｜若手Webエンジニアのキャリアを考える！" title="エンジニアHub｜若手Webエンジニアのキャリアを考える！" type="rss" xmlUrl="https://employment.en-japan.com/engineerhub/feed" htmlUrl="https://employment.en-japan.com/engineerhub/"/>
+      <outline text="Radium Software" title="Radium Software" type="rss" xmlUrl="http://radiumsoftware.tumblr.com/rss" htmlUrl="http://radiumsoftware.tumblr.com/"/>
+      <outline text="CodeZine" title="CodeZine" type="rss" xmlUrl="https://codezine.jp/rss/new/20/index.xml" htmlUrl="http://codezine.jp/"/>
+      <outline text="POSTD" title="POSTD" type="rss" xmlUrl="https://postd.cc/feed/" htmlUrl="https://postd.cc/"/>
+      <outline text="xuwei-k's blog" title="xuwei-k's blog" type="rss" xmlUrl="http://d.hatena.ne.jp/xuwei/rss" htmlUrl="http://d.hatena.ne.jp/xuwei/"/>
+      <outline text="Publickey" title="Publickey" type="rss" xmlUrl="http://www.publickey1.jp/atom.xml" htmlUrl="http://www.publickey1.jp/"/>
+      <outline text="言語ゲーム" title="言語ゲーム" type="rss" xmlUrl="http://d.hatena.ne.jp/propella/rss" htmlUrl="http://d.hatena.ne.jp/propella/"/>
+      <outline text="ごんざれふ" title="ごんざれふ" type="rss" xmlUrl="http://otsubo.info/blog/atom.xml" htmlUrl="http://otsubo.info/blog"/>
+      <outline text="mizchi's blog" title="mizchi's blog" type="rss" xmlUrl="http://mizchi.hatenablog.com/feed" htmlUrl="http://mizchi.hatenablog.com/"/>
+      <outline text="柴田 芳樹 (Yoshiki Shibata)" title="柴田 芳樹 (Yoshiki Shibata)" type="rss" xmlUrl="http://yshibata.blog.so-net.ne.jp/index.rdf" htmlUrl="http://yshibata.blog.so-net.ne.jp/"/>
+      <outline text="わたしが知らないスゴ本は、きっとあなたが読んでいる" title="わたしが知らないスゴ本は、きっとあなたが読んでいる" type="rss" xmlUrl="http://dain.cocolog-nifty.com/myblog/atom.xml" htmlUrl="http://dain.cocolog-nifty.com/myblog/"/>
+      <outline text="GoTheDistance" title="GoTheDistance" type="rss" xmlUrl="http://gothedistance.hatenadiary.jp/feed" htmlUrl="http://gothedistance.hatenadiary.jp/"/>
+      <outline text="MechaAG" title="MechaAG" type="rss" xmlUrl="http://mechaag.tumblr.com/rss" htmlUrl="http://mechaag.tumblr.com/"/>
+      <outline text="Amazon Web Services ブログ" title="Amazon Web Services ブログ" type="rss" xmlUrl="https://aws.amazon.com/jp/blogs/news/feed/" htmlUrl="https://aws.amazon.com/jp/blogs/news/"/>
+      <outline text="まなめはうす" title="まなめはうす" type="rss" xmlUrl="http://maname.hatenablog.com/feed" htmlUrl="http://maname.hatenablog.com/"/>
+      <outline text="檜山正幸のキマイラ飼育記" title="檜山正幸のキマイラ飼育記" type="rss" xmlUrl="http://d.hatena.ne.jp/m-hiyama/rss" htmlUrl="http://d.hatena.ne.jp/m-hiyama/"/>
     </outline>
     <outline text="まとめ" title="まとめ">
-      <outline text="インソース東へ西へ" title="インソース東へ西へ" type="rss" xmlUrl="http://insource.exblog.jp/index.xml" htmlUrl="http://insource.exblog.jp"/>
-      <outline text="はてなブックマーク - takanorikidoのブックマーク - お気に入り" title="はてなブックマーク - takanorikidoのブックマーク - お気に入り" type="rss" xmlUrl="http://b.hatena.ne.jp/takanorikido/favorite.rss" htmlUrl="http://b.hatena.ne.jp/takanorikido/favorite"/>
-      <outline text="インソース公開講座ブログ" title="インソース公開講座ブログ" type="rss" xmlUrl="http://d.hatena.ne.jp/insblog+openseminar/rss" htmlUrl="http://d.hatena.ne.jp/insblog+openseminar/"/>
       <outline text="Lovely Carving のブログ" title="Lovely Carving のブログ" type="rss" xmlUrl="http://blog.lovely-carving.com/?mode=rss" htmlUrl="http://blog.lovely-carving.com/"/>
-      <outline text="たんぷとん" title="たんぷとん" type="rss" xmlUrl="http://hepton-rk.tumblr.com/rss" htmlUrl="http://hepton-rk.tumblr.com/"/>
       <outline text="トマスの疑い深い資産運用" title="トマスの疑い深い資産運用" type="rss" xmlUrl="http://foma.blog.jp/index.rdf" htmlUrl="http://foma.blog.jp/"/>
       <outline text="やしお" title="やしお" type="rss" xmlUrl="http://d.hatena.ne.jp/Yashio/rss" htmlUrl="http://d.hatena.ne.jp/Yashio/"/>
       <outline text="KGRC" title="KGRC" type="rss" xmlUrl="http://kogumarecord.tumblr.com/rss" htmlUrl="http://kogumarecord.tumblr.com/"/>
-      <outline text="SmileMoheji’s diary" title="SmileMoheji’s diary" type="rss" xmlUrl="http://smilemoheji.hatenablog.com/feed" htmlUrl="http://smilemoheji.hatenablog.com/"/>
-    </outline>
-    <outline text="アニメコミック" title="アニメコミック">
-      <outline text="沼の見える街" title="沼の見える街" type="rss" xmlUrl="http://numagasa.hatenablog.com/feed" htmlUrl="http://numagasa.hatenablog.com/"/>
     </outline>
     <outline text="ゲーム森羅万象" title="ゲーム森羅万象">
-      <outline text="minecraft" title="minecraft" type="rss" xmlUrl="http://minecraft.ologies.net/feed/" htmlUrl="http://minecraft.ologies.net/"/>
+      <outline text="レブログ！" title="レブログ！" type="rss" xmlUrl="https://reblog.hateblo.jp/feed" htmlUrl="https://reblog.hateblo.jp/"/>
       <outline text="マインクラフトてんやわんや開拓記" title="マインクラフトてんやわんや開拓記" type="rss" xmlUrl="http://blog.livedoor.jp/zombiepigman/index.rdf" htmlUrl="http://blog.livedoor.jp/zombiepigman/"/>
       <outline text="不倒城" title="不倒城" type="rss" xmlUrl="http://mubou.seesaa.net/index.rdf" htmlUrl="http://mubou.seesaa.net/"/>
       <outline text="ゲーム風呂" title="ゲーム風呂" type="rss" xmlUrl="http://udontaro.blog79.fc2.com/?xml" htmlUrl="http://udontaro.blog79.fc2.com/"/>
       <outline text="もぐらゲームス" title="もぐらゲームス" type="rss" xmlUrl="http://www.moguragames.com/feed/" htmlUrl="http://www.moguragames.com/"/>
       <outline text="AUTOMATON" title="AUTOMATON" type="rss" xmlUrl="http://jp.automaton.am/feed/" htmlUrl="http://jp.automaton.am/"/>
-      <outline text="マインクラフトPC版シックスパックで遊ぶブログ！" title="マインクラフトPC版シックスパックで遊ぶブログ！" type="rss" xmlUrl="http://minecraft-forpc.net/feed/" htmlUrl="http://minecraft-forpc.net/"/>
-      <outline text="あるぼるのゆるりとマイクラ日記" title="あるぼるのゆるりとマイクラ日記" type="rss" xmlUrl="http://arbor-mc.com/feed/" htmlUrl="http://arbor-mc.com/"/>
       <outline text="Recent Blog Posts" title="Recent Blog Posts" type="rss" xmlUrl="https://www.factorio.com/blog/rss" htmlUrl="http://www.factorio.com/blog"/>
-      <outline text="Colorful Pieces of Game" title="Colorful Pieces of Game" type="rss" xmlUrl="http://www.highriskrevolution.com/gamelife/?mode=rss" htmlUrl="http://www.highriskrevolution.com/gamelife/"/>
     </outline>
     <outline text="政治経済社会" title="政治経済社会">
-      <outline text="石壁に百合の花咲く" title="石壁に百合の花咲く" type="rss" xmlUrl="http://www.ishiyuri.com/feed" htmlUrl="http://www.ishiyuri.com/"/>
-      <outline text="山形浩生の「経済のトリセツ」" title="山形浩生の「経済のトリセツ」" type="rss" xmlUrl="http://d.hatena.ne.jp/wlj-Friday/rss" htmlUrl="http://d.hatena.ne.jp/wlj-Friday/"/>
-      <outline text="映画評論家町山智浩アメリカ日記" title="映画評論家町山智浩アメリカ日記" type="rss" xmlUrl="http://d.hatena.ne.jp/TomoMachi/rss" htmlUrl="http://d.hatena.ne.jp/TomoMachi/"/>
       <outline text="海国防衛ジャーナル" title="海国防衛ジャーナル" type="rss" xmlUrl="http://blog.livedoor.jp/nonreal-pompandcircumstance/index.rdf" htmlUrl="http://blog.livedoor.jp/nonreal-pompandcircumstance/"/>
-      <outline text="himaginaryの日記" title="himaginaryの日記" type="rss" xmlUrl="http://d.hatena.ne.jp/himaginary/rss2" htmlUrl="http://d.hatena.ne.jp/himaginary/"/>
-      <outline text="発達障害就労日誌" title="発達障害就労日誌" type="rss" xmlUrl="http://syakkin-dama.hatenablog.com/feed" htmlUrl="http://syakkin-dama.hatenablog.com/"/>
       <outline text="経済学101" title="経済学101" type="rss" xmlUrl="http://econ101.jp/feed/" htmlUrl="http://econ101.jp/"/>
     </outline>
     <outline text="文化芸術宗教" title="文化芸術宗教">
@@ -197,19 +154,14 @@
       <outline text="基本読書" title="基本読書" type="rss" xmlUrl="http://huyukiitoichi.hatenadiary.jp/feed" htmlUrl="http://huyukiitoichi.hatenadiary.jp/"/>
     </outline>
     <outline text="映画・ザ・ムービー" title="映画・ザ・ムービー">
-      <outline text="C note" title="C note" type="rss" xmlUrl="http://kenko-note.cocolog-nifty.com/blog/index.rdf" htmlUrl="http://kenko-note.cocolog-nifty.com/blog/"/>
-      <outline text="ゆでたま時々のりたまの映画愛" title="ゆでたま時々のりたまの映画愛" type="rss" xmlUrl="http://yudetama.com/feed/" htmlUrl="http://yudetama.com"/>
-      <outline text="メモリの藻屑、記憶領域のゴミ" title="メモリの藻屑、記憶領域のゴミ" type="rss" xmlUrl="http://d.hatena.ne.jp/globalhead/rss" htmlUrl="http://d.hatena.ne.jp/globalhead/"/>
       <outline text="映画のブログ" title="映画のブログ" type="rss" xmlUrl="http://movieandtv.blog85.fc2.com/?xml" htmlUrl="http://movieandtv.blog85.fc2.com/"/>
-      <outline text="びーきゅうらいふ！" title="びーきゅうらいふ！" type="rss" xmlUrl="http://b9life.hatenablog.com/feed" htmlUrl="http://b9life.hatenablog.com/"/>
     </outline>
     <outline text="科学技術哲学" title="科学技術哲学">
-      <outline text="WIRED.jp最新情報 Feed – WIRED.jp" title="WIRED.jp最新情報 Feed – WIRED.jp" type="rss" xmlUrl="http://feed.rssad.jp/rss/wired/feed.rdf" htmlUrl="http://wired.jp/"/>
-      <outline text="shorebird　進化心理学中心の書評など" title="shorebird　進化心理学中心の書評など" type="rss" xmlUrl="http://d.hatena.ne.jp/shorebird/rss" htmlUrl="http://d.hatena.ne.jp/shorebird/"/>
-      <outline text="NATROMの日記" title="NATROMの日記" type="rss" xmlUrl="http://d.hatena.ne.jp/NATROM/rss2" htmlUrl="http://d.hatena.ne.jp/NATROM/"/>
+      <outline text="shorebird　進化心理学中心の書評など" title="shorebird　進化心理学中心の書評など" type="rss" xmlUrl="https://shorebird.hatenablog.com/feed" htmlUrl="https://shorebird.hatenablog.com/"/>
+      <outline text="未翻訳ブックレビュー" title="未翻訳ブックレビュー" type="rss" xmlUrl="http://kaseinoji.hatenablog.com/feed" htmlUrl="http://kaseinoji.hatenablog.com/"/>
+      <outline text="NATROMのブログ" title="NATROMのブログ" type="rss" xmlUrl="http://natrom.hatenablog.com/feed" htmlUrl="http://natrom.hatenablog.com/"/>
       <outline text="ありんこ日記　AntRoom" title="ありんこ日記　AntRoom" type="rss" xmlUrl="http://blog.livedoor.jp/antroom/index.rdf" htmlUrl="http://blog.livedoor.jp/antroom/"/>
       <outline text="科学に佇む一行読書の書斎" title="科学に佇む一行読書の書斎" type="rss" xmlUrl="http://sciencebook.blog110.fc2.com/?xml" htmlUrl="http://sciencebook.blog110.fc2.com/"/>
-      <outline text="道徳的動物日記" title="道徳的動物日記" type="rss" xmlUrl="http://davitrice.hatenadiary.jp/feed" htmlUrl="http://davitrice.hatenadiary.jp/"/>
     </outline>
   </body>
 </opml>
